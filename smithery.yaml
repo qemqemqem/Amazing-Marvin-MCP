@@ -1,8 +1,8 @@
-name: amazing-marvin-mcp
+name: amazing-marvin-mcp-qemqemqem
 display_name: Amazing Marvin MCP
 description: Model Context Provider for Amazing Marvin productivity app that provides access to your tasks, projects, and categories
 version: 0.1.0
-author: bgheneti
+author: qemqemqem
 license: MIT
 
 # Local installation configuration
@@ -50,6 +50,6 @@ tags:
   - mcp
   - ai-assistant
 
-homepage: https://github.com/bgheneti/Amazing-Marvin-MCP
-repository: https://github.com/bgheneti/Amazing-Marvin-MCP
-documentation: https://github.com/bgheneti/Amazing-Marvin-MCP#readme
+homepage: https://github.com/qemqemqem/Amazing-Marvin-MCP
+repository: https://github.com/qemqemqem/Amazing-Marvin-MCP
+documentation: https://github.com/qemqemqem/Amazing-Marvin-MCP#readme

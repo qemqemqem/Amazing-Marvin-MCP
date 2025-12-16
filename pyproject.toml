@@ -3,14 +3,14 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "amazing-marvin-mcp"
+name = "amazing-marvin-mcp-qemqemqem"
 version = "1.0.1"
 description = "Amazing Marvin Model Context Provider"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 authors = [
-    {name = "bgheneti", email = "bgheneti@users.noreply.github.com"}
+    {name = "qemqemqem", email = "richardson.andrew@gmail.com"}
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -42,8 +42,8 @@ dev = [
 amazing-marvin-mcp = "amazing_marvin_mcp.main:start"
 
 [project.urls]
-"Homepage" = "https://github.com/bgheneti/Amazing-Marvin-MCP"
-"Bug Tracker" = "https://github.com/bgheneti/Amazing-Marvin-MCP/issues"
+"Homepage" = "https://github.com/qemqemqem/Amazing-Marvin-MCP"
+"Bug Tracker" = "https://github.com/qemqemqem/Amazing-Marvin-MCP/issues"
 
 [tool.isort]
 profile = "black"
@@ -76,7 +76,7 @@ warn_redundant_casts = true
 warn_unused_ignores = true
 
 [tool.smithery]
-name = "amazing-marvin-mcp"
+name = "amazing-marvin-mcp-qemqemqem"
 display_name = "Amazing Marvin MCP"
 description = "Model Context Provider for Amazing Marvin productivity app"
 entry_point = "amazing_marvin_mcp.main:start"
