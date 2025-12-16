@@ -1,7 +1,7 @@
 name: amazing-marvin-mcp-qemqemqem
 display_name: Amazing Marvin MCP
 description: Model Context Provider for Amazing Marvin productivity app that provides access to your tasks, projects, and categories
-version: 0.1.0
+version: 1.0.2
 author: qemqemqem
 license: MIT
 
